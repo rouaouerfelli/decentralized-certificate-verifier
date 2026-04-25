@@ -2,7 +2,6 @@
 ### Built on Hedera Network | ESPRIT School of Engineering | 2026
 
 **Author:** Roua Ouerfelli  
-**Institution:** ESPRIT – School of Engineering and Technology, Tunis, Tunisia  
 **Status:** Core Implementation Complete
 
 ---
