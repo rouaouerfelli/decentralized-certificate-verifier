@@ -1,5 +1,5 @@
 # Decentralized Certificate Verifier
-### Built on Hedera Network | ESPRIT School of Engineering | 2026
+### Built on Hedera Network | 2026
 
 **Author:** Roua Ouerfelli  
 **Status:** Core Implementation Complete
